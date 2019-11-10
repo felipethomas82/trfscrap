@@ -1,0 +1,39 @@
+"aposentadoria especial" e fresador
+"aposentadoria especial" e médico
+"aposentadoria especial" e ruído
+"aposentadoria por idade" e rural
+"aposentadoria por idade híbrida"
+"aposentadoria especial" e calor
+"aposentadoria especial" e vibração
+"aposentadoria por tempo de contribuição" e rural
+aposentadoria idade rural
+previdenciário e rural
+previdenciário e revisão
+aposentadoria especial vigilante
+"aposentadoria especial" e vigilante
+"aposentadoria especial" e operador
+"aposentadoria especial" e "operador de máquina""
+previdenciário restabelecimento
+previdenciário restabelecimento "auxílio doença"
+previdenciário restabelecimento "aposentadoria por invalidez"
+"aposentadoria por idade" e concessão
+"aposentadoria por idade" e concessão e híbrida
+"aposentadoria por tempo de contribuição" e especial
+"aposentadoria por tempo de contribuição" e médico
+"aposentadoria por tempo de contribuição" e calor
+"aposentadoria por tempo de contribuição" e ruído
+"aposentadoria especial" e mineiro
+previdenciário e mineiro
+previdenciário e carvão
+previdenciário e "agentes biológicos"
+previdenciário e umidade
+"aposentadoria especial" e umidade
+"aposentadoria por tempo de contribuição" e fresador
+previdenciário aposentadoria
+previdenciário e "aposentadoria por tempo de professor"
+aposentadoria professor INSS
+aposentadoria professor previdenciário
+aposentadoria motorista
+aposentadoria e "motorista de ônibus"
+aposentadoria e motorista e ônibus
+previdenciário revisão salários
