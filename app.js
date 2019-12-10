@@ -163,10 +163,13 @@ async function updatePath( path, scraped ) {
         console.log("numero_gproc: " + nroGProc);
         
         const response = await page.goto(pathToScrap, {waitUntil: 'load'});
-        await page.setContent((await response.buffer()).toString('utf8'));
+        // await page.setContent((await response.buffer()).toString('ISO-8859-1'));
+        // const innerText = await page.evaluate(() => document.querySelector('body').innerText);
         const html = await page.content();
         fs.writeFileSync('scraped/' + nroGProc + '.html', html);
-        updatePath(pathToScrap);
+        // fs.writeFileSync('scraped/' + nroGProc + '2.txt', innerText);
+
+        // updatePath(pathToScrap);
     }
     await browser.close();
     /*
